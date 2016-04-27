@@ -158,9 +158,6 @@ button:hover{
 
 .cases .devices {
     display: inline-block;
-    /* styles to assist with debugging */
-    box-sizing: border-box;
-    height: 4em;
 }
 
 .cases .devices > li{
@@ -228,4 +225,10 @@ button:hover{
     cursor: pointer;
     color:white;
     background-color:#3f729b; 
+}
+
+.social .copy {
+    font-size: 0.9rem;
+    font-weight: 300;
+    color:#838994;
 }
